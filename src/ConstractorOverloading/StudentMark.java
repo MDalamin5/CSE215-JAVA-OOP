@@ -14,7 +14,7 @@ public class StudentMark {
 		this.CSE215=CSE215;
 	}
 	
-	StudentMark(int CSE115, int CSE215,int CSE225)
+	StudentMark(int CSE115, int CSE215,int CSE225 )
 	{
 		//this.CSE115=CSE115;
 		//this.CSE215=CSE215;
