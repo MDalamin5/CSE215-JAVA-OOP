@@ -2,7 +2,7 @@ package AccessModifier;
 
 class A
 {
-	private int a;
+	//private int a;
 	A meth()
 	{
 		return this;
