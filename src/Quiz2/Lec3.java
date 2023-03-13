@@ -22,7 +22,7 @@ public class Lec3 {
 		System.out.println(20>>>4);
 		
 		//Ternary Operators
-		System.out.println((10>3)? 3:2);
+		System.out.println((10>3)? 3:0);
 
 	}
 
