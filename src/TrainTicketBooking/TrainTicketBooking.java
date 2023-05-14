@@ -43,6 +43,7 @@ class TrainTicketBooking {
         } catch (InvalidInputException | OutOfBoundsException | NetworkException | SecurityException | PaymentException e) {
             System.out.println(e.getMessage());
         }
+        
     }
 
     private static void bookTicket() throws InvalidInputException, OutOfBoundsException, NetworkException, SecurityException, PaymentException {
