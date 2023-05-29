@@ -25,7 +25,7 @@ public class Test1 {
 					System.out.println(i+" "+j);
 				
 			}
-			//System.out.println();
+			System.out.println();
 		}
 	}
 
